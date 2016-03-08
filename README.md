@@ -1,6 +1,13 @@
 # Bouncer
 Bouncer: a Javascript plugin to throttle and debounce callbacks easily.
 
+## Installation
+Install with Bower
+```javascript
+bower install Bouncer
+``` 
+Or by cloning this repository.
+
 ## How to use
 The plugin can be used with or without jQuery.
 
